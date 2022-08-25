@@ -1,0 +1,14 @@
+.cover__title {
+  padding-top:245px;
+  margin: 0 auto 0;
+  max-width: 560px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  color: #ffffff;
+  z-index: 3;
+  position: relative;
+}

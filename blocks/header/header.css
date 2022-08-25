@@ -1,7 +1,7 @@
 .header{
-   margin: 0 auto;
-   margin-left: 48px;
-   margin-right: 48px;
-   margin-top: 28px;
-    
+   margin: 28px 48px 0;
+   display: grid;
+   grid-template-columns: min-content min-content min-content;
+   gap:18px;
+   align-items: center;
 }
