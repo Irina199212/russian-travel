@@ -1,5 +1,5 @@
 .cover__title {
-  padding-top:245px;
+ padding-top:245px;
   margin: 0 auto 0;
   max-width: 560px;
   font-family: "Inter";
@@ -11,4 +11,5 @@
   color: #ffffff;
   z-index: 3;
   position: relative;
+
 }
