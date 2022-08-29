@@ -8,3 +8,9 @@
   color: #aaaaaa;
   margin-bottom: 12px;
 }
+@media screen and (max-width: 767px) {
+  .website__url-heading {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
