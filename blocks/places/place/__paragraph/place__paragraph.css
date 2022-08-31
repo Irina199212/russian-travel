@@ -13,7 +13,7 @@
 .place__paragraph:last-of-type {
   margin-bottom: 0;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width: 767px) {
   .place__paragraph {
     font-size: 16px;
     margin-left: 16px;
