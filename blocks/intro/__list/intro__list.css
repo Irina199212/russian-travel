@@ -1,7 +1,7 @@
 .intro__list {
   padding: 0;
-  margin-top: 33px;
-  font-family: "Inter";
+  margin: 33px 0 0 0;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
